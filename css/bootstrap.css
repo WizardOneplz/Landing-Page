@@ -4212,6 +4212,10 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.9);
 }
 
+.navbar-dark{
+  background-color: #000;
+}
+
 .navbar-dark .navbar-brand {
   color: #fff;
 }
