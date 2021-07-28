@@ -21,9 +21,12 @@
     background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%);
 }
+.titulohome{
+    font-size: 4.5rem;
+}
 
 .titulo{
-    padding-bottom: 5rem;
+    padding-bottom: 4rem;
 }
 
 .texto{
