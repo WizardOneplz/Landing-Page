@@ -29,6 +29,10 @@
     padding-bottom: 4rem;
 }
 
+.titulomaquina{
+    padding-bottom: 0.5rem;
+}
+
 .texto{
     padding-top: 1rem;
     padding-bottom: 2rem;
@@ -62,6 +66,7 @@ html,body{
 }
 
 /*PROCESO*/
+
 
 .feature ul{
     padding-left: 2rem;
