@@ -80,13 +80,10 @@ html,body{
 
 /*PROCESO*/
 
-<<<<<<< HEAD
-=======
 .feature{
     background-image: url(../img/fondo2.jpg);
     background: linear-gradient(68deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%);
 }
->>>>>>> 4a9fff68e8430ad883925082c5298ac5f4bcb203
 
 .feature ul{
     padding-left: 2rem;
