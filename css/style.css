@@ -5,16 +5,16 @@
     background-color: white;
 }
 
+.negro{
+    background-color: black;
+}
+
 .textoblanco{
     color: white;
 }
 
 .textonegro{
     color: black;
-}
-
-.negro{
-    background-color: black;
 }
 
 .gradient{
@@ -121,13 +121,13 @@ html,body{
     margin-bottom: 1rem;
 }
 
-.gallery{
-    background-color: black;
-    color: #ffde59;
-}
-
 .gallery img{
     border-radius: 5%;
+}
+
+.borderedondeado{
+    border-radius: 10%;
+    border: 5px solid black;
 }
 
 .services{
