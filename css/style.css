@@ -32,7 +32,12 @@
 }
 
 .titulo{
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
+}
+
+.space{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
 }
 
 .titulomaquina{
@@ -74,6 +79,7 @@ html,body{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    padding-bottom: 2rem;
 }
 
 .center2{
