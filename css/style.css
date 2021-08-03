@@ -87,6 +87,14 @@ html,body{
     width: 70%;
 }
 
+.center4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+}
+
 /*PROCESO*/
 
 .feature{
