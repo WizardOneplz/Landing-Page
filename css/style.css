@@ -9,6 +9,10 @@
     background-color: black;
 }
 
+.textoamarillo{
+    color: #FFDE59;
+}
+
 .textoblanco{
     color: white;
 }
@@ -27,29 +31,40 @@
     background: linear-gradient(68deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%);
 }
 
+/*TITULOS*/
+
 .titulohome{
     font-size: 4.5rem;
+    color: #FFDE59;
 }
 
-.titulo{
+.titulo-color{
     padding-bottom: 2rem;
+    color: #FFDE59;
 }
 
-.titulo2{
-    padding-bottom: 4rem;
+.titulo-amarillo{
+    color: #FFDE59;
 }
 
-.space{
-    padding-top: 3rem;
+.titulo-negro{
     padding-bottom: 2rem;
+    color: black;
 }
 
 .titulomaquina{
     padding-bottom: 0.5rem;
 }
 
+/*TEXTOS*/
 .texto{
     padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+/*ESPACIOS*/
+.space{
+    padding-top: 3rem;
     padding-bottom: 2rem;
 }
 
@@ -160,11 +175,28 @@ html,body{
 }
 
 
-
+/*FOOTER*/
 .footer{
     color: white;
-    font-size: 1rem;
-    margin: 0;
-    padding: 1rem;
-    
+    background: black;
 }
+
+.center4{
+    display: block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.footer .titulo-footer{
+    font-size: 3rem;
+    margin-top: 3rem;
+    color: #FFDE59;
+}
+
+.space2{
+    margin-top: 2rem;
+}
+
