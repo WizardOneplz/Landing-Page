@@ -79,7 +79,10 @@
 .espacio3{
     margin-top: 5rem;
     margin-bottom: 5rem;
+}
 
+.espacio4{
+    margin-bottom: 5rem;
 }
 
 /*BODY*/
@@ -183,8 +186,9 @@ html,body{
     margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 50%;
 }
+
 
 .footer .titulo-footer{
     font-size: 3rem;
@@ -193,6 +197,6 @@ html,body{
 }
 
 .space2{
-    margin-top: 2rem;
+    padding-top: 2rem;
 }
 
