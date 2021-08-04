@@ -57,6 +57,16 @@
     margin-top: 10rem;
 }
 
+.espacio2{
+    margin-top: 3.5rem;
+}
+
+.espacio3{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+}
+
 /*BODY*/
 
 html,body{
@@ -114,27 +124,13 @@ html,body{
 }
 
 /*PROCESO*/
-.feature{
-    background-image: url(../img/fondo2.jpg);
-    background: linear-gradient(68deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%);
-}
 
-.feature ul{
+.packaging ul{
     padding-left: 2rem;
     list-style-type: none;
 }
 
-.feature ul li{
-    padding-left: 2rem;
-    background-image: url(../img/check.svg);
-    background-repeat: no-repeat;
-    line-height: 1.5rem;
-    margin-bottom: 1rem;
-}
-
-.inicio ul li{
-    padding-left: 2rem;
-    list-style-type: none;
+.packaging ul li{
     padding-left: 2rem;
     background-image: url(../img/check.svg);
     background-repeat: no-repeat;
