@@ -39,7 +39,7 @@
 /*TITULOS*/
 
 .titulohome{
-    font-size: 4rem;
+    font-size: 3.5rem;
     color: #FFDE59;
 }
 
@@ -191,7 +191,7 @@ html,body{
 }
 
 .footer .titulo-footer{
-    font-size: 1rem;
+    font-size: 2rem;
     margin-top: 3rem;
     color: #FFDE59;
 }
